@@ -1,6 +1,6 @@
 # svelte-app
 
-Proyecto base genérico de aplicación web basada en Svelte (SvelteKit) creado utilizando [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Proyecto base genérico de aplicación web basada en Svelte (SvelteKit) inicializado utilizando [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
 ## Requisitos previos
 
