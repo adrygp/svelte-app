@@ -1,6 +1,6 @@
 # svelte-app
 
-Proyecto base de webapp con Svelte creado utilizando [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Proyecto base genérico de aplicación web basada en Svelte (SvelteKit) creado utilizando [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
 ## Requisitos previos
 
@@ -59,5 +59,3 @@ Se puede lanzar una previsualización de la versión de producción con `npm run
 
 *Información adicional incluida en la documentación:*
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-
-
