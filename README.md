@@ -43,7 +43,7 @@ Esta carpeta, junto a otros ficheros, es ignorada en los commits al repositorio,
 Simplemente tendremos que lanzar el siguiente comando (¡El doble ```--``` no es una errata!):
 
 ```
-npm run dev -- --open
+pnpm run dev -- --open
 ```
 
 Esto iniciará el servidor de desarrollo y abrirá la pantalla principal del proyecto en una nueva pestaña de navegador.
@@ -53,9 +53,9 @@ Si todo ha funcionado correctamente, los cambios que hagamos y guardemos en los 
 
 ## Creación de una versión de producción
 
-Para crear una versión de producción, es necesario utilizar el comando ```npm run build```.
+Para crear una versión de producción, es necesario utilizar el comando ```pnpm run build```.
 
-Se puede lanzar una previsualización de la versión de producción con `npm run preview`.
+Se puede lanzar una previsualización de la versión de producción con `pnpm run preview`.
 
 *Información adicional incluida en la documentación:*
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
